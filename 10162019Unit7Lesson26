@@ -1,0 +1,11 @@
+# 3xThemes:
+#1.抽象性 abstraction:隐藏详细的细节；
+#2.通用性 universality,包括如下三点:
+##2.1-->way to make decisions(if)
+##2.2-->way to keep track(variables,data)
+##2.3-->way to keep going(用while-loop,或者更好用 procedures（例如递归程序）)
+#3.递归定义 recursive definitions
+
+
+#Q. what is computer science? A. Engineering + Science + Liberal Art
+#开放源代码：意味着实际底层源代码可见可自由获取；同时需要遵循开源的HTTP
